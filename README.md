@@ -1,11 +1,11 @@
-# 🧠 TEACH-AI Dashboard (Prototype)
+# TEACH-AI Dashboard (Prototype)
 
 The **TEACH-AI Dashboard** is an open-source prototype to evaluate generative AI tutors using the **TEACH-AI Benchmark Framework**.  
 It helps researchers and educators assess models across **10 educational dimensions** — from Explainability and Helpfulness to Accessibility and Ethics — using an **LLM-as-Judge** approach.
 
 ---
 
-## 🚀 Features
+##  Features
 - Evaluate AI tutor responses using standardized scoring (1–5)  
 - Includes 10 TEACH-AI components with prompt-based questions  
 - Built in **Python + Flask** with a simple evaluation UI  
@@ -13,7 +13,7 @@ It helps researchers and educators assess models across **10 educational dimensi
 
 ---
 
-## 📊 Example Use
+## Example Use
 Example evaluation task (EarSketch / Deeproject context):
 
 > **Prompt:** “How can you make your music composition in EarSketch more expressive using code?”
@@ -27,12 +27,13 @@ Each response is scored automatically across the TEACH-AI dimensions.
 
 ---
 
-## 🧠 Citation
+## Citation
 If you use or reference this work, please cite:
-> Ding, S. (2025). *The TEACH-AI Benchmark*
+> Ding, S., Magerko, B. (2025). *Rethinking AI Evaluation with TEACH-AI: A Benchmark and Toolkit for Educational AI Systems. Accepted to the NeurIPS Responsible Foundation Models (ResponsibleFM) Workshop*
 
 ---
 
 ## 🪪 License
 MIT License © 2025  
 Part of ongoing research at Georgia Tech’s Expressive Machinery Lab.
+
