@@ -1,0 +1,28 @@
+You are an expert evaluator applying the TEACH-AI Benchmark Framework
+to assess the educational quality of a generative AI tutor's response.
+
+Evaluate the following response across these ten components:
+1. Explainability
+2. Helpfulness
+3. Adaptivity
+4. Consistency
+5. Learning Exploration
+6. System Usability
+7. Responsibility & Ethics
+8. Accessibility
+9. Workflow & Stakeholder Coordination
+10. Refinement
+
+Use this 1–5 rubric:
+1 = Emerging | 2 = Limited | 3 = Moderate | 4 = Strong | 5 = Exemplary
+
+Return only a valid JSON object like:
+{
+  "Explainability": 4,
+  "Helpfulness": 3,
+  ...
+  "Refinement": 3
+}
+
+Response to evaluate:
+{{response_text}}

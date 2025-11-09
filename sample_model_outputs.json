@@ -1,0 +1,6 @@
+{
+    "GPT-4": "Good start! Your code runs, but the function `fitMedia()` is missing the closing parenthesis. Try `fitMedia(YG_NEW_HIP_HOP_1, 1, 1, 9)` instead. If you want to make your beat more interesting, add another track using a loop—like repeating a hi-hat pattern. Do you want an example?",
+    "Claude-3": "Looks like you imported the library correctly, nice work! There’s a small bug: `fitMedia` needs three timing parameters. Remember, each number represents start and end measures. You could also experiment with `setEffect()` to add echo or volume fade. Would you like me to show you?",
+    "Gemini-1.5": "Your code structure is almost right. The function name should be capitalized `fitMedia`, and you need to define the track number. To make it sound cooler, layer another drum sample starting at measure 5. You can try something like `fitMedia(RD_EDM_DRUMPAD_2, 2, 5, 9)`."
+  }
+  
